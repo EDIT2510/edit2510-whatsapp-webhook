@@ -1,0 +1,2 @@
+# Sin dependencias externas: el servidor usa solo la libreria estandar de Python.
+# Este archivo existe porque Render espera un requirements.txt en el build.
